@@ -1,0 +1,22 @@
+﻿  IrisV2.cpp
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(17,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(32,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(69,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(110,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(122,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(135,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(136,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(138,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(162,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(175,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(185,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(187,41): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(208,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(215,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\Iris.h(222,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\IrisV2\IrisV2.cpp(45,22): warning C4018: <: несоответствие типов со знаком и без знака
+  IrisV2.vcxproj -> C:\Users\User\Documents\MVS\курсовая\dtc\Debug\IrisV2.exe

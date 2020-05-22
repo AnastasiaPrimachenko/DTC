@@ -1,0 +1,18 @@
+﻿  CW.cpp
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(17,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(30,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(68,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(106,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(130,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(131,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(133,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(157,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.h(168,40): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Documents\MVS\курсовая\dtc\CW\CW.cpp(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+  CW.vcxproj -> C:\Users\User\Documents\MVS\курсовая\dtc\Debug\CW.exe

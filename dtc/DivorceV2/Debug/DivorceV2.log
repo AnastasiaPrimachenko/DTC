@@ -1,0 +1,21 @@
+﻿  DivorceV2.cpp
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(17,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(30,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(67,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(107,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(118,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(131,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(132,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(134,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(158,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(171,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(180,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(182,41): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(203,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\Divorce.h(210,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\DivorceV2\DivorceV2.cpp(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+  DivorceV2.vcxproj -> C:\Users\User\Documents\MVS\курсовая\dtc\Debug\DivorceV2.exe

@@ -1,0 +1,28 @@
+﻿  VoteV2.cpp
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(16,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(29,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(48,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(66,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(90,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(124,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(135,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(146,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(149,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(150,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(156,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(160,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(176,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(187,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(193,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(196,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(197,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(204,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(211,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(218,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(225,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(250,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(259,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\VoteV2.cpp(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\VoteV2\Vote.h(43): warning C4715: unique: значение возвращается не при всех путях выполнения
+  VoteV2.vcxproj -> C:\Users\User\Documents\MVS\курсовая\dtc\Debug\VoteV2.exe

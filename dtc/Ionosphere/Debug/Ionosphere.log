@@ -1,0 +1,18 @@
+﻿  Ionosphere.cpp
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(17,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(30,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(66,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(104,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(115,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(128,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(129,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(155,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(164,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.h(166,40): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Documents\MVS\курсовая\dtc\Ionosphere\Ionosphere.cpp(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Ionosphere.vcxproj -> C:\Users\User\Documents\MVS\курсовая\dtc\Debug\Ionosphere.exe

@@ -1,0 +1,18 @@
+﻿  Divorce.cpp
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(17,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(30,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(67,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(105,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(116,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(129,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(130,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(132,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(156,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.h(167,40): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Documents\MVS\курсовая\dtc\Divorce\Divorce.cpp(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Divorce.vcxproj -> C:\Users\User\Documents\MVS\курсовая\dtc\Debug\Divorce.exe
