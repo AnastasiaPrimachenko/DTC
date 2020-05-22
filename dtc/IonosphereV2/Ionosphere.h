@@ -169,7 +169,8 @@ struct node {
 			if (f <= 1) {
 				attribute = -1;
 				label = data[0].type;
-				return;
+				unite_leaves(this);
+				return;				
 			}
 			vector <double> split_point = find_split_point(this->data);
 			vector <line> smaller;
