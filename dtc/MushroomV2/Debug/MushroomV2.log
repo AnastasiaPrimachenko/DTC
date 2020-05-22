@@ -12,15 +12,15 @@ C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(144,22): 
 C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(145,23): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(151,22): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(155,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(186,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(195,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(196,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(203,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(210,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(217,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(224,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(249,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(257,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(170,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(179,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(180,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(187,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(194,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(201,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(208,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(233,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(241,21): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\MushroomV2.cpp(45,22): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\User\Documents\MVS\курсовая\dtc\MushroomV2\Mushroom.h(44): warning C4715: unique: значение возвращается не при всех путях выполнения
   MushroomV2.vcxproj -> C:\Users\User\Documents\MVS\курсовая\dtc\Debug\MushroomV2.exe
