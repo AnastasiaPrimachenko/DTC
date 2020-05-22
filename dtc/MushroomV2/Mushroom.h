@@ -181,7 +181,7 @@ struct node {
 					if (data[i].attributes[split_point] == cutoff[j]) child[j].push_back(data[i]);
 				}
 			}
-			string s_temp = ("Attribute-" + to_string(split_point));
+			string s_temp = ("Attribute-" + to_string(split_point+1));
 			this->decision = s_temp;
 			attribute = split_point;
 			for (int i = 0; i < child.size(); ++i) {
